@@ -1,0 +1,8 @@
+DEFINE_NEAR_METHOD(get_amount)
+DEFINE_NEAR_METHOD(get_contract_view)
+DEFINE_NEAR_METHOD(get_greeting)
+DEFINE_NEAR_METHOD(get_view)
+DEFINE_NEAR_METHOD(set_amount)
+DEFINE_NEAR_METHOD(set_contract_view)
+DEFINE_NEAR_METHOD(set_greeting)
+DEFINE_NEAR_METHOD(set_view)
